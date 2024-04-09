@@ -3,7 +3,7 @@
 
 ¿Son preocupantes las reservas de agua en España? ¿Debería preocuparnos el estado de los embalses en España? ¿Cómo es la tendencia desde que hay datos? ¿Cómo es la tendencia en los últimos años?
 
-![plot](agua.png)
+![plot](Agua.png)
 
 ### Descripción:
 
